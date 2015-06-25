@@ -1,4 +1,4 @@
-var Model = require('./schema')
+var Model = require('./model')
 	, Controller = {};
 
 Controller.create = function(req, res) {
