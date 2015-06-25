@@ -1,0 +1,26 @@
+{
+  "name": "node-modular",
+  "version": "0.0.1",
+  "description": "Projeto em Node.js com estrutura modular, utulizando moogose e express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiocesar/node-modular.git"
+  },
+  "keywords": [
+    "node",
+    "modular"
+  ],
+  "author": "Kaio Cesar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaiocesar/node-modular/issues"
+  },
+  "homepage": "https://github.com/kaiocesar/node-modular#readme",
+  "dependencies": {
+    "mongoose": "^4.0.6"
+  }
+}
